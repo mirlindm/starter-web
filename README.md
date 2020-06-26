@@ -14,4 +14,8 @@ As stated above, the main purpose is to have a sample website with plenty of fil
 
 ## Deployment
 
+Deployment text
+
 ## How to contribute
+
+How to contribute to the GitHub Repo
