@@ -22,4 +22,5 @@ How to contribute to the GitHub Repo
 
 ## Copyright
 
-2020. Mirlind Murati
+2020. Mirlind Murati, All rights reserved.
+
